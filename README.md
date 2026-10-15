@@ -1,1 +1,1 @@
-![Profile Banner](bb.jpg)
+![Profile Banner](b.jpg)
